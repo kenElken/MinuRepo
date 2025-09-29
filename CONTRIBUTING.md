@@ -27,6 +27,7 @@ git push origin main
 git pull origin main
 
 6. Lõin uue haru ja uus pull request ka
+   ![Uus-Haru](Pildid/Kuvat6mmis-2025-09-28-193509.png)
 
 git checkout -b feature/tervitus
 echo "Uus rida feature-harus" >> README.md
