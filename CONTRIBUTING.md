@@ -2,8 +2,9 @@
 
    git config --global user.name "Ken Elken"
    git config --global user.email "ken.elken@vikk.ee"
+   ![Seadistus-ja-esimesed-sammud](Pildid/Kuvat6mmis-2025-09-28-193438.png)
 
-2. Seejärel tegin Repo  GitHubis
+3. Seejärel tegin Repo  GitHubis
 
 Repo nimi: MinuRepo
 
