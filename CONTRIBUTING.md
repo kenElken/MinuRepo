@@ -37,7 +37,7 @@ git push -u origin feature/tervitus
 Selle peale tuli GitHubi veebilehel pull request ja merge main harule
 
 7. Gitignore tegin ka
-   ![gitignore](Pildid/Kuvatõmmis 2025-09-28 193544.png)
+   ![gitignore](Pildid/Kuvatõmmis2025-09-28193544.png)
 
 echo ".DS_Store" >> .gitignore
 echo ".idea/" >> .gitignore
